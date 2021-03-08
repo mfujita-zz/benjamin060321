@@ -38,7 +38,7 @@ h1 {
 @media only screen and (max-width: 600px) {
     body {
         width: 600px;
-        background-color: lightblue;
+        background-color: lightyellow;
     }
 
     img {
